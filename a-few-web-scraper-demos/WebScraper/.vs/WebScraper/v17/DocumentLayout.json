@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\personal projects\\WebScraper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD094D7E-0645-483B-BC9B-2BC89198F2B5}|WebScraper\\WebScraper.csproj|d:\\personal projects\\webscraper\\webscraper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD094D7E-0645-483B-BC9B-2BC89198F2B5}|WebScraper\\WebScraper.csproj|solutionrelative:webscraper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{7cc9e714-2774-4fc6-8631-a07eee703286}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cab27b98-a314-48d2-9746-efe8ba39ccb0}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\personal projects\\WebScraper\\WebScraper\\Program.cs",
+              "RelativeDocumentMoniker": "WebScraper\\Program.cs",
+              "ToolTip": "D:\\personal projects\\WebScraper\\WebScraper\\Program.cs",
+              "RelativeToolTip": "WebScraper\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T00:23:27.141Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
