@@ -238,11 +238,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\personal projects\\WebScraperPagination\\WebScraperPagination.csproj",
+      "projectUniqueName": "D:\\personal projects\\self-learning\\a-few-web-scraper-demos\\WebScraperPagination\\WebScraperPagination.csproj",
       "projectName": "WebScraperPagination",
-      "projectPath": "D:\\personal projects\\WebScraperPagination\\WebScraperPagination.csproj",
+      "projectPath": "D:\\personal projects\\self-learning\\a-few-web-scraper-demos\\WebScraperPagination\\WebScraperPagination.csproj",
       "packagesPath": "C:\\Users\\jason\\.nuget\\packages\\",
-      "outputPath": "D:\\personal projects\\WebScraperPagination\\obj\\",
+      "outputPath": "D:\\personal projects\\self-learning\\a-few-web-scraper-demos\\WebScraperPagination\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jason\\AppData\\Roaming\\NuGet\\NuGet.Config",

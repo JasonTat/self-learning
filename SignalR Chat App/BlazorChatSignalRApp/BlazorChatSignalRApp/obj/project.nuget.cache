@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZVQWc1GiVaXvYQ5mKdzPVR5NSmQfRm/YHYvdhLZOpRZiHHzlomE8EvDy3YqNphtIMl6X/pj0HChe9ZmqO9IajQ==",
+  "success": true,
+  "projectFilePath": "D:\\personal projects\\SignalR Chat App\\BlazorChatSignalRApp\\BlazorChatSignalRApp\\BlazorChatSignalRApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jason\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\8.0.4\\microsoft.aspnetcore.connections.abstractions.8.0.4.nupkg.sha512",
+    "C:\\Users\\jason\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\8.0.4\\microsoft.aspnetcore.http.connections.client.8.0.4.nupkg.sha512",
+    "C:\\Users\\jason\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\8.0.4\\microsoft.aspnetcore.http.connections.common.8.0.4.nupkg.sha512",
+    "C:\\Users\\jason\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\8.0.4\\microsoft.aspnetcore.signalr.client.8.0.4.nupkg.sha512",
+    "C:\\Users\\jason\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core\\8.0.4\\microsoft.aspnetcore.signalr.client.core.8.0.4.nupkg.sha512",
+    "C:\\Users\\jason\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\8.0.4\\microsoft.aspnetcore.signalr.common.8.0.4.nupkg.sha512",
+    "C:\\Users\\jason\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\8.0.4\\microsoft.aspnetcore.signalr.protocols.json.8.0.4.nupkg.sha512",
+    "C:\\Users\\jason\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
+    "C:\\Users\\jason\\.nuget\\packages\\microsoft.bcl.timeprovider\\8.0.1\\microsoft.bcl.timeprovider.8.0.1.nupkg.sha512",
+    "C:\\Users\\jason\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\jason\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\jason\\.nuget\\packages\\microsoft.extensions.features\\8.0.4\\microsoft.extensions.features.8.0.4.nupkg.sha512",
+    "C:\\Users\\jason\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\jason\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.1\\microsoft.extensions.logging.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\jason\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\jason\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\jason\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
+    "C:\\Users\\jason\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\jason\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\jason\\.nuget\\packages\\system.text.json\\8.0.3\\system.text.json.8.0.3.nupkg.sha512",
+    "C:\\Users\\jason\\.nuget\\packages\\system.threading.channels\\8.0.0\\system.threading.channels.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebScraperPagination
-build_property.ProjectDir = D:\personal projects\WebScraperPagination\
+build_property.ProjectDir = D:\personal projects\self-learning\a-few-web-scraper-demos\WebScraperPagination\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\personal projects\\SignalR Chat App\\BlazorChatSignalRApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A61E8E93-B9C4-48F1-A407-4BB24C47D8F8}|WPF Client\\WPF Client.csproj|d:\\personal projects\\signalr chat app\\blazorchatsignalrapp\\wpf client\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A61E8E93-B9C4-48F1-A407-4BB24C47D8F8}|WPF Client\\WPF Client.csproj|solutionrelative:wpf client\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A61E8E93-B9C4-48F1-A407-4BB24C47D8F8}|WPF Client\\WPF Client.csproj|d:\\personal projects\\signalr chat app\\blazorchatsignalrapp\\wpf client\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A61E8E93-B9C4-48F1-A407-4BB24C47D8F8}|WPF Client\\WPF Client.csproj|solutionrelative:wpf client\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829FF903-1560-47FF-AC31-82F72BDFBFB8}|BlazorChatSignalRApp\\BlazorChatSignalRApp.csproj|d:\\personal projects\\signalr chat app\\blazorchatsignalrapp\\blazorchatsignalrapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{829FF903-1560-47FF-AC31-82F72BDFBFB8}|BlazorChatSignalRApp\\BlazorChatSignalRApp.csproj|solutionrelative:blazorchatsignalrapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{7cc9e714-2774-4fc6-8631-a07eee703286}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cab27b98-a314-48d2-9746-efe8ba39ccb0}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\personal projects\\SignalR Chat App\\BlazorChatSignalRApp\\BlazorChatSignalRApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BlazorChatSignalRApp\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\personal projects\\SignalR Chat App\\BlazorChatSignalRApp\\BlazorChatSignalRApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BlazorChatSignalRApp\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-28T23:18:27.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\personal projects\\SignalR Chat App\\BlazorChatSignalRApp\\WPF Client\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPF Client\\MainWindow.xaml",
+              "ToolTip": "D:\\personal projects\\SignalR Chat App\\BlazorChatSignalRApp\\WPF Client\\MainWindow.xaml",
+              "RelativeToolTip": "WPF Client\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-28T23:06:37.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\personal projects\\SignalR Chat App\\BlazorChatSignalRApp\\WPF Client\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF Client\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\personal projects\\SignalR Chat App\\BlazorChatSignalRApp\\WPF Client\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPF Client\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAvwFgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T23:06:37.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

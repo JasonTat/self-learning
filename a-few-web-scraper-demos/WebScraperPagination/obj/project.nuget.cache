@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g/8tzAXkyK2lRDYEJ9WNStAz7MVO2IkZEY6jmxKmq7KYwtWHAV/IIaNUMO5o1vYMYut8Pmoy2D5P9yTeGseK6A==",
+  "dgSpecHash": "D9hHVc4hRCeYsyiBWvr2rA0Ij4s5QD/9901ZrttHGgjTAk6RzxVTQDAE8zQILa0Mu8jPiWUI04jVf2V/WnGYOA==",
   "success": true,
-  "projectFilePath": "D:\\personal projects\\WebScraperPagination\\WebScraperPagination.csproj",
+  "projectFilePath": "D:\\personal projects\\self-learning\\a-few-web-scraper-demos\\WebScraperPagination\\WebScraperPagination.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jason\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512",
     "C:\\Users\\jason\\.nuget\\packages\\htmlagilitypack\\1.11.61\\htmlagilitypack.1.11.61.nupkg.sha512",
